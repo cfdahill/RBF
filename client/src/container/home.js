@@ -2,7 +2,7 @@ import React, {Component} from "react";
 // import ReactDOM from "react-dom";
 import YouTube from 'simple-youtube-api';
 
-const API_KEY = "AIzaSyAa2utLyTh64jxHh57CbHykG8gsFdR3REU";
+const API_KEY = "";
 const youtube = new YouTube(API_KEY);
 
 export default class Home extends Component {
